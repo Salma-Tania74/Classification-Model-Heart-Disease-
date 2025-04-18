@@ -1,4 +1,4 @@
-# Classification-Model-Heart-Disease(ML)
-- Machine learning
+# Heart-Disease-Projects
+- Machine learning (ML)
 - classification model comparison
 - ROC curve 
